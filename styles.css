@@ -111,3 +111,4 @@ html, body { margin: 0; background: var(--color-bg); color: var(--color-fg); fon
 .sb .kpin { width: 22px; height: 22px; background: #c8962e; border: 2px solid #fff; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); box-shadow: 0 1px 4px rgba(0,0,0,.4); }
 /* 카카오맵 내부 도형 레이어(svg)가 지도 타일을 덮지 않게 */
 .sb .kmap svg { background: transparent !important; border: 0 !important; border-radius: 0 !important; }
+.sb .biz dd.blank { min-height: 1.4em; border-bottom: 1px solid var(--color-border-line); }
